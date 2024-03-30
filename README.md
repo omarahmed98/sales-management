@@ -13,7 +13,7 @@ This API provides endpoints for managing a a simple sales management system, whi
 # Running Procedure
 - Clone the project.
 - Configure your database settings in application.properties.
-- Run MachineApplciation.java in vending-machine\src\main\java\com\vendor\machine\MachineApplication.java.
+- Run SystemApplciation.java 
 - Test the API with Swagger: [Swagger UI](http://localhost:8080/swagger-ui/index.html#/)
 
 # Test Users
