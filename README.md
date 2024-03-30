@@ -1,4 +1,4 @@
-# Vending Machine API Documentation
+# Sales Mangement API
 
 # Introduction
 This API provides endpoints for managing a a simple sales management system, which should include product management, client management, sales operations management, reporting, and user authentication features.
