@@ -1,7 +1,5 @@
-# Sales Mangement API
-
-# Introduction
-This API provides endpoints for managing a a simple sales management system, which should include product management, client management, sales operations management, reporting, and user authentication features.
+# Sales Management API
+ API provides endpoints for managing a simple sales management system, which include product management, client management, sales operations management, reporting, and user authentication features.
 
 # Technologies Used
 
